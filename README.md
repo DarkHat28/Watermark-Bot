@@ -1,5 +1,5 @@
 # 🤖 Watermark-Bot
-A Telegram Video Watermark Adder Bot by [@Saitama_AU]n](https://github.com/DarkHat28)
+A Telegram Video Watermark Adder Bot by [@Saitama_AU](https://github.com/DarkHat28)
 
 ---
 
